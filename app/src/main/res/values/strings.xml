@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="artwork1_title">Горы 1</string>
+    <string name="artwork1_artist">Автор 1</string>
+    <string name="artwork1_year">2021</string>
+
+    <string name="artwork2_title">Горы 2</string>
+    <string name="artwork2_artist">Автор 2</string>
+    <string name="artwork2_year">2022</string>
+
+    <string name="artwork3_title">Горы 3</string>
+    <string name="artwork3_artist">Автор 3</string>
+    <string name="artwork3_year">2023</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
